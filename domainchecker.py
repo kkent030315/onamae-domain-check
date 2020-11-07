@@ -32,11 +32,3 @@ def check_domain(domain_name: str, domain_list_to_check: list) -> Dict[str, bool
         result[full_domain] = is_available
 
     return result
-
-
-def main() -> None:
-    print(check_domain('tes436t', ['.com', '.jp']))
-
-
-if __name__ == '__main__':
-    main()
