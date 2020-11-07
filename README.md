@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/github/last-commit/kkent030315/onamae-domain-check?style=for-the-badge">
   <img src="https://img.shields.io/codefactor/grade/github/kkent030315/onamae-domain-check?style=for-the-badge">
   <img src="https://img.shields.io/pypi/pyversions/domainchecker?style=for-the-badge">
+  <img src="https://img.shields.io/pypi/v/domainchecker?style=for-the-badge">
 </p>
 
 # onamae-domain-check
