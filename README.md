@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/pypi/v/domainchecker?style=for-the-badge">
 </p>
 
+https://pypi.org/project/domainchecker/
+
 # onamae-domain-check
 
 A python module that provides check if the domain is available, via Onamae.com Status API
